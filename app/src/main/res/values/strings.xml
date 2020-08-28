@@ -10,6 +10,14 @@
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="next_day_ground_delivery">Next day ground delivery</string>
     <string name="pick_up">Pick up</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="phone">Phone:</string>
+    <string name="note">Note</string>
+    <string name="choose_your_delivery_method">Choose your delivery method:</string>
     <string-array name="labels_array">
         <item>Home</item>
         <item>Work</item>
